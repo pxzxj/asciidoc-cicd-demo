@@ -1,0 +1,6 @@
+= mycode
+
+[source,java]
+----
+include::../java/com/github/Q.java[]
+----

@@ -1,6 +1,12 @@
-= mycode
+= asciidoc-cicd-demo
 
-[source,java]
+
+== samples
+.代码示例
+[source,java,subs="verbatim"]
 ----
 include::../java/com/github/Q.java[]
 ----
+
+.哔哩哔哩示例
+bilibili::BV1gt411f7H4[]

@@ -212,6 +212,11 @@
                         <version>0.6.0</version>
                     </dependency>
                     <dependency>
+                        <groupId>io.github.pxzxj</groupId>
+                        <artifactId>asciidoctor-bilibili-extension</artifactId>
+                        <version>1.0</version>
+                    </dependency>
+                    <dependency>
                         <groupId>org.asciidoctor</groupId>
                         <artifactId>asciidoctorj-pdf</artifactId>
                         <version>${asciidoctorj.pdf.version}</version>

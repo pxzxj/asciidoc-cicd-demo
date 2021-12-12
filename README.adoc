@@ -2,7 +2,7 @@
 
 == Introduction
 
-本项目用于演示使用asciidoctor-maven插件以及对应的spring扩展生成spring风格的html文档以及使用GitHub Action构建CI/CI流程将文档自动发布到GitHub Pages
+本项目是 https://pxzxj.github.io/articles/documentation.html[技术文档编写指南]的示例项目，用于演示使用asciidoctor-maven插件以及对应的spring扩展生成spring风格的html文档以及使用GitHub Action构建CI/CI流程将文档自动发布到GitHub Pages
 
 重点包括：
 

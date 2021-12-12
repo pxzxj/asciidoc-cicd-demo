@@ -13,4 +13,4 @@
 - git push后会触发CI/CI流程执行，将修改后的页面自动部署到GitHub Pages
 - 访问GitHub Pages的地址为 https://pxzxj.github.io/asciidoc-cicd-demo
 
-TIP: 对GitHub Action和GitHub Pages不熟悉的读者参考 https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html[GitHub Actions 入门教程]
+TIP: 对GitHub Action和GitHub Pages不熟悉的读者参考 https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html[GitHub Actions 入门教程]和 https://pages.github.com/[GitHub Pages]

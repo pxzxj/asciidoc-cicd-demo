@@ -23,6 +23,8 @@
         <pdf.cjk.kaigen.download.dir>${project.build.directory}/downloaded-resources</pdf.cjk.kaigen.download.dir>
     </properties>
 
+
+         
     <pluginRepositories>
         <pluginRepository>
             <id>spring-release</id>

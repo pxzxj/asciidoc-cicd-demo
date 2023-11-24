@@ -30,6 +30,7 @@
             <url>https://repo.spring.io/release</url>
         </pluginRepository>
     </pluginRepositories>
+         
 
     <build>
         <plugins>
